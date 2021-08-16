@@ -8,8 +8,8 @@ Tkinterでおみくじを作成しました。
 4. ダウンロードされたzipファイルをデスクトップへ移動
 5. zipファイルをダブルクリック
 6. ターミナルを開く。
-7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。($ cd Desktop/tkinter-omikuji-master)
-8. `python main.py`を実行する。
+7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/tkinter-omikuji-master`)
+8. `$ python main.py`を実行する。
 
 # 完成図
 <img width="1680" alt="screenshot 2021-08-16 14 26 22" src="https://user-images.githubusercontent.com/23373288/129515206-aa66948a-ea0d-4331-ba46-9b857a30fb9a.png">
